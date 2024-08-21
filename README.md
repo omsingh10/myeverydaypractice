@@ -5,3 +5,4 @@ Lemonade Change
 Ugly Number II
  2 Keys Keyboard
 Combination Sum II
+Strange Printer
