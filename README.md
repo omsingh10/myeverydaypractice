@@ -14,8 +14,7 @@ Path with Maximum Probability
 njj
 Count Sub Islands
 human x
-Most Stones Removed with Same Row or Columna
-aa
+Most Stones Removed with Same Row or Columnammk
 Find Missing Observations
 pp
 kk
