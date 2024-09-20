@@ -8,14 +8,10 @@ Combination Sum II
 Strange Printer
 Number Complement
  Fraction Addition and Subtraction
- j
+
 N-ary Tree Postorder Traversal
 Path with Maximum Probability
-jhhk
-njj
+
 Count Sub Islands
-human x
 Most Stones Removed with Same Row or Columnammk
 Find Missing Observations
-pp
-kk
