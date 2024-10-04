@@ -17,3 +17,4 @@ Most Stones Removed with Same Row or Columnammk
 Find Missing Observations
 back
 hdh
+https://www.youtube.com/watch?v=uTySfxxq77I
