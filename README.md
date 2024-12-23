@@ -15,6 +15,8 @@ kkk
 
 Count Sub Islands
 Most Stones Removed with Same Row or Columnammk
+
+s
 Find Missing Observations
 back
 hdh
