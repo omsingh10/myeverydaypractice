@@ -10,7 +10,7 @@ public class MultiNumberCalculator {
 
         do {
             // Display menu
-            System.out.println("\n=== Multi-Number Calculator ===");
+         
             System.out.println("1. Add");
             System.out.println("2. Subtract");
             System.out.println("3. Multiply");
