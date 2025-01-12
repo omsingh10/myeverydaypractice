@@ -6,6 +6,8 @@ Ugly Number II
  2 Keys Keyboard
 Combination Sum II
 Strange Printer
+jhfkytf
+hgfk
 Number Complement
  Fraction Addition and Subtraction
 hshhs
